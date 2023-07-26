@@ -1,0 +1,26 @@
+{
+  "name": "bahai-nz-microsite-archives",
+  "version": "1.0.0",
+  "description": "Archive of two microsites for the Bahá’í Community of New Zealand",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Studio Marque",
+    "email": "hello@marque.co.nz",
+    "url": "https://www.marque.co.nz"
+  },
+  "contributors": [
+    {
+      "name": "Che Mearns",
+      "email": "che@jiminy.co.nz",
+      "url": "https://www.jiminy.co.nz"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
