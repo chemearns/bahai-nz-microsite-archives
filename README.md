@@ -56,3 +56,9 @@ Hit CTRL-C to stop the server
 ```
 
 You can now view the archive in your web browser by visiting the URL shown in the message, e.g. `http://127.0.0.1:8080` or `http://192.168.1.65:8080`.
+
+## Contact
+
+Studio Marque - hello@marque.co.nz
+
+Che Mearns - che@jiminy.co.nz
