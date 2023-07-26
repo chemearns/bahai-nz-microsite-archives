@@ -20,26 +20,18 @@ These microsites were originally created using [Squarespace](https://www.squares
 
 These archives are static websites. To view them, you need to run a local web server. This can be done using the npm package `http-server`. Or you can use any other web server of your choice.
 
-### Install http-server
-
+1. Install http-server
 From the project root directory.
-
 ```bash
 npm install
 ```
-
-### Run http-server to serve the Bicentenary of the Birth of the Báb archive
-
+2. Run http-server to serve the Bicentenary of the Birth of the Báb archive
 From the project root directory
-
 ```bash
 ./node_modules/.bin/http-server bicentenary-of-the-birth-of-the-bab
 ```
-
-#### Run http-server to serve The World Conferences Aotearoa New Zealand 2022 archive
-
+3. Run http-server to serve The World Conferences Aotearoa New Zealand 2022 archive
 From the project root directory
-
 ```bash
 ./node_modules/.bin/http-server the-world-conferences
 ```
