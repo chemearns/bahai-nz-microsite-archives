@@ -6,7 +6,7 @@ This project contains two microsite archives for the Bahá’í Community of New
 - The World Conferences Aotearoa New Zealand 2022
 - The Bicentenary of the Birth of the Báb
 
-These microsites were originally created using the [Squarespace](https://www.squarespace.com/) a website creation and hosting platform. The microsites were then archived using the [HTTrack](https://www.httrack.com/) website copier.
+These microsites were originally created using [Squarespace](https://www.squarespace.com/) a website creation and hosting platform. The microsites were then archived using [HTTrack](https://www.httrack.com/) website copier.
 
 ### Project contents
 
@@ -15,7 +15,9 @@ These microsites were originally created using the [Squarespace](https://www.squ
 - README.md (this file)
 - the-world-conferences (microsite archive)
 
-#### Code Block
+### How to view an archive
+
+
 
 Here is a code block:
 
