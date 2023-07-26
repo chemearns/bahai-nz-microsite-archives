@@ -10,18 +10,18 @@ These microsites were originally created using [Squarespace](https://www.squares
 
 ### Project contents
 
-- bicentenary-of-the-birth-of-the-bab (microsite archive)
-- package.json (npm package configuration file, installs a local web server)
-- README.md (this file)
-- the-world-conferences (microsite archive)
+- root directory
+  - bicentenary-of-the-birth-of-the-bab (microsite archive)
+  - package.json (npm package configuration file, installs a local web server)
+  - README.md (this file)
+  - the-world-conferences (microsite archive)
 
 ### How to view an archive
 
+These archives are static websites. To view them, you need to run a local web server. This can be done using the npm package `http-server`. Or you can use any other web server of your choice.
 
+#### Install http-server
 
-Here is a code block:
-
-```javascript
-function helloWorld() {
-  console.log('Hello, world!');
-}
+```bash
+npm install
+```
