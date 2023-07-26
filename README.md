@@ -20,8 +20,6 @@ These microsites were originally created using [Squarespace](https://www.squares
 
 These archives are static websites. To view them, you need to run a local web server. This can be done using the npm package `http-server`. Or you can use any other web server of your choice.
 
----
-
 ### Install http-server
 
 From the project root directory.
@@ -29,8 +27,6 @@ From the project root directory.
 ```bash
 npm install
 ```
-
----
 
 ### Run http-server to serve the Bicentenary of the Birth of the Báb archive
 
