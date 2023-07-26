@@ -22,6 +22,37 @@ These archives are static websites. To view them, you need to run a local web se
 
 #### Install http-server
 
+From the project root directory.
+
 ```bash
 npm install
 ```
+
+#### Run http-server to serve the Bicentenary of the Birth of the Báb archive
+
+From the project root directory
+
+```bash
+./node_modules/.bin/http-server bicentenary-of-the-birth-of-the-bab
+```
+
+#### Run http-server to serve The World Conferences Aotearoa New Zealand 2022 archive
+
+From the project root directory
+
+```bash
+./node_modules/.bin/http-server the-world-conferences
+```
+
+After running the above commands, you should see a message like this:
+
+```bash
+Starting up http-server, serving <directoryname>
+Available on:
+  http://127.0.0.1:8080
+  http://192.168.1.65:8080
+
+Hit CTRL-C to stop the server
+```
+
+You can now view the archive in your web browser by visiting the URL shown in the message, e.g. `http://127.0.0.1:8080` or `http://192.168.1.65:8080`.
